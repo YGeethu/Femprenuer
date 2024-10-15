@@ -4,7 +4,7 @@ Welcome to Project Femprenuer! This platform is designed to empower working wome
 
 ## Demo
 
-Check out the live demo of the project https://projectfemprenuer.vercel.app/
+Check out the live demo of the project https://femprenuer.vercel.app/
 
 ## Features
 
@@ -69,7 +69,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any inquiries or support, please contact [Ninjaabhay](https://github.com/Ninjaabhay).
+For any inquiries or support, please contact [YalavarthiGeethika]().
 
 ---
 
