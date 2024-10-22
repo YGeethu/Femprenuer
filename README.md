@@ -1,4 +1,4 @@
-# Project SheManages
+# Project Femprenuer
 
 Welcome to Project Femprenuer! This platform is designed to empower working women by providing them with a comprehensive toolkit to showcase their talents, connect with clients, and grow their businesses.
 
